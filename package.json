@@ -1,0 +1,16 @@
+{
+  "name": "backend-setup",
+  "version": "1.0.0",
+  "description": "backend setup by hitesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javasript",
+    "backend",
+    "chai"
+  ],
+  "author": "niga",
+  "license": "ISC"
+}
