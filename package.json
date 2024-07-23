@@ -2,9 +2,10 @@
   "name": "backend-setup",
   "version": "1.0.0",
   "description": "backend setup by hitesh",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javasript",
@@ -12,5 +13,8 @@
     "chai"
   ],
   "author": "niga",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }

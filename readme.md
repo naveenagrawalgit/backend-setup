@@ -1,1 +1,1 @@
-#chai aur backrnd W niga
+#chai aur backend W niga
